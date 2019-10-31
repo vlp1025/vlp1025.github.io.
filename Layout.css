@@ -1,0 +1,20 @@
+html {
+    background-color: rgb(75, 75, 75);
+  }
+p
+{
+    
+    line-height: 1.3em;
+    color : white;
+}
+h1{
+    color : white;
+}
+
+img 
+{
+    max-width: 950px;
+    border: 3px solid black; 
+    float: right;
+    margin: 0px 5px 0px 0px;
+}
